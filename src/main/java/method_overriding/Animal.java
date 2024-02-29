@@ -9,4 +9,5 @@ public interface Animal {
 	//test 03
 	//test 04
 	//test 05
+	//test 06
 }
